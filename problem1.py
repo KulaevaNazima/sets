@@ -1,0 +1,5 @@
+items= set ()
+items.update ({1, 2, 3})
+items.update ({"Vlad", "Ali", "Mike"})
+items.update ({"apple", "lemon", "watermelon"})
+print (items)
